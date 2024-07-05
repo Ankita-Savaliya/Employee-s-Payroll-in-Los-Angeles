@@ -1,0 +1,1 @@
+California's new law requiring salary and pay gap transparency inspired an in-depth analysis of Los Angeles' Employees' Payroll data from Kaggle. This project explores wage distribution, benefits, and employment patterns across departments, genders, and ethnicities, providing valuable insights into the LA job market.
